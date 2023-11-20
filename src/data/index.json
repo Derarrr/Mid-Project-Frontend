@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Front-End",
+      "description": "Saya sedang belajar untuk meningkatkan skill saya di bidang Front-end"
+    },
+    {
+      "id": "2",
+      "title": "Photography",
+      "description": "Saya memiliki Skill di bidang Fotografi terutama foto Portrait dan Lanskap"
+    }
+  ]
+}
